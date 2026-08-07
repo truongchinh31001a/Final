@@ -1,0 +1,8 @@
+{
+  "average_inference_time_sec": 0.0565518590362871,
+  "image_auroc": 0.9984126984126984,
+  "memory_bank_size": 5350,
+  "num_test_images": 83,
+  "pixel_anomaly_masks_used": 63,
+  "pixel_auroc": 0.9867714946325412
+}
